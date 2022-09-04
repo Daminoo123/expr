@@ -1,0 +1,9 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    margin: 10px;
+    padding: 5px;
+    justify-content: space-around;
+
+}
